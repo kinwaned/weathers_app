@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+![1](https://github.com/kinwaned/weathers_app/assets/75176487/f9e83471-70a2-4a88-83ed-5746d63e25f0)
+![2](https://github.com/kinwaned/weathers_app/assets/75176487/ffaefeb8-2af6-46b2-901e-05db8ae03b33)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
